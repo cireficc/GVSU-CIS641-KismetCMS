@@ -1,13 +1,17 @@
-# Team Name
+# Kismet CMS
 
 Project description (~1 paragraph)
 
 ## Team Members and Roles
 
-* Member 1 (Role 1, Role 2)
-* Member 2 (Role 3, Role 4)
-* Member 3 (Role 5, Role 6)
+* Chris Cirefice (Founder & CEO; Project Manager)
+* Aaron Fairfield (Full-Stack Engineer; Co-Project Manager)
+* Elizabeth Mealing (Front-end/UX Engineer)
+* Jason Miranda (Back-end Engineer)
+* Sophie Bulos (Marketing/Sales)
 
 ## Prerequisites
+- TBD
 
 ## Run Instructions
+- TBD
